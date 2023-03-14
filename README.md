@@ -1,8 +1,6 @@
 # Helloworld Starter with Cookiecutter for Starlite
 
 This is starter with cookiecutter for Starlite.
-It is much simpler version of <https://github.com/starlite-api/starlite-pg-redis-docker>
-Built on top of peter's <https://github.com/topsport-com-au/starlite-saqlalchemy>
 
 ## Quickstart
 

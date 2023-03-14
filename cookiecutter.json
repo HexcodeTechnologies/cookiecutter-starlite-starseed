@@ -1,12 +1,12 @@
 {
     "project_name": "starseed",
-    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "project_slug": "{{cookiecutter.project_name.lower().replace(' ', '-') }}",
     "pkg_name": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
     "project_short_description": "Cookiercutter for Starlite Helloworld",
     "full_name": "Phyo Arkar Lwin",
     "email": "phyoakl@hexcode.tech",
     "github_username": "v3ss0n",
-    "version": "0.4.0",
+    "version": "0.1.0",
     "command_line_interface": [
         "Click"
     ],
