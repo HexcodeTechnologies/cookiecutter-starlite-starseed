@@ -19,9 +19,6 @@
         "Not open source"
     ],
     "_copy_without_render": [
-        "docs/changelog.md",
-        "docs/contributing.md",
-        "docs/index.md",
         ".github/workflows/*.yml"
     ]
 }
