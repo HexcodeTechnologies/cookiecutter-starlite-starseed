@@ -1,5 +1,5 @@
-# Helloworld Starter with Cookiecutter for Starlite
-
+# Starseed for Starlite
+## Helloworld Starter with Cookiecutter for Starlite
 This is starter with cookiecutter for Starlite.
 
 ## Quickstart
